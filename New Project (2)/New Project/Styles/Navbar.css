@@ -1,0 +1,22 @@
+@media (min-width: 320px) and (max-width: 555px) {
+    /* #nav-desktop{
+        display: none;
+    } */
+
+    #nav-desktop a {
+        font-size: 8px;
+        padding: 0%;
+    }
+
+    #nav-desktop-icon {
+        display: none;
+    }
+}
+
+@media (min-width: 556px) and (max-width: 991px) {
+
+}
+
+@media (min-width: 992px) {
+
+}

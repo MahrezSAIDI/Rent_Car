@@ -1,0 +1,62 @@
+.entete{
+  width: 100%;
+  height:300px;
+  background-image: url("../Img/mesreservation.PNG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+  .titleimg{
+    color: #fff;
+    padding: 150px;
+    text-align: center;
+    
+
+  }
+  .formulaire-wrap{
+    padding:20px;
+    width:50%;
+    margin-top:60px;
+    background: #EFECECCC;
+    height: auto;
+    border-radius:0.35rem ;
+    margin-bottom: 120px;
+    margin-left: 25%;
+  }
+  .inp{
+    width:100%;
+    border:none;
+    border-radius:0.35rem ;
+    margin-bottom: 5%;
+
+  }
+  .cmodifier{
+    border:none;
+    background-color: #e03711;
+    margin-top:30px;
+    padding:  1rem;
+    border-radius: 0.35rem;
+    color:#fff;
+    width:30%;
+
+  }
+  .tailleimg{
+      height:100px;
+      width:100px;
+  }
+  .posform{
+padding-bottom: 60%;
+  }
+  .modlabel{
+    color: #124E73;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  
+  }
+  .menuelement{
+    margin-right: 50px;
+  }
+  
+  
+  
+
+
